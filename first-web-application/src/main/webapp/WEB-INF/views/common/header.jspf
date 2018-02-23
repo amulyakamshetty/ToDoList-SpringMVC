@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>welcome</title>
+<link href="webjars/bootstrap/3.3.5/css/bootstrap.min.css"
+    rel="stylesheet">
+</head>
+<body>
